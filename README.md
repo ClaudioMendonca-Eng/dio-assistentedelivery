@@ -2,7 +2,7 @@
 
 ## Introdução
 
-> [!info]
+> [!IMPORTANT] 
 > Este estudo aborda a criação de um fluxo de trabalho utilizando AWS Step Functions e Bedrock para desenvolver um Assistente de Delivery. O AWS Step Functions permite orquestrar diferentes serviços AWS em uma arquitetura de microserviços, enquanto o Bedrock facilita o uso de modelos de aprendizado de máquina (ML) e inteligência artificial (IA) pré-treinados na nuvem.
 
 ## Situação-Problema
@@ -48,7 +48,7 @@ A precificação para este projeto pode variar de acordo com o uso específico d
 - 📬 **Amazon SNS**: Cobrança por número de mensagens enviadas ($0.50 por milhão de publicações).
 - 🧠 **AWS Bedrock**: O custo dependerá do modelo de IA utilizado e do volume de previsões.
 
-> [!info]
+> [!IMPORTANT] 
 > Para estimar o custo total, é essencial considerar a frequência de pedidos, o número de entregas diárias e o volume de dados processados.
 
 ## Links Úteis
